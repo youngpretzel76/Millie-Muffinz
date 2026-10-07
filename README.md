@@ -13,3 +13,5 @@ what does it feature?: buttons, static images, gifs, text, and several different
 
 
 thank you for caring enough to look at my page :)
+
+[!image](file:///C:/Users/shawn/Downloads/IMG_4365.webp)
