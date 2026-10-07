@@ -14,5 +14,7 @@ what does it feature?: buttons, static images, gifs, text, and several different
 
 thank you for caring enough to look at my page :)
 
+---
+
 <img width="1024" height="768" alt="IMG_4365" src="https://github.com/user-attachments/assets/fd02c518-d213-4e38-acf7-11b91e659404" />
 
