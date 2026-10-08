@@ -1,0 +1,10 @@
+html, body {
+    background-image: https://pbs.twimg.com/media/GFnV4zRawAABu-r?format=webp&name=large;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
+    font-family: 'Cherry Bomb One';
+}
+
